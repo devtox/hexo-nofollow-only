@@ -1,4 +1,4 @@
-# hexo-autonofollow
+# hexo-nofollow-only
 Adds nofollow attribute to all external links in your hexo blog posts automatically.
 
 
@@ -8,7 +8,7 @@ Adds nofollow attribute to all external links in your hexo blog posts automatica
 ## Install
 
 ``` bash
-$ npm install hexo-autonofollow --save
+$ npm install hexo-nofollow-only --save
 ```
 
 ## Options
